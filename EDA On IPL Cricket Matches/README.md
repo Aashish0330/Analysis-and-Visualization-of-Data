@@ -2,7 +2,7 @@
 This analyzes the data on 
  * past scores
  * player perfomances
- * ball by ball analysis
+ * Ball by Ball 
  * Wins and Lost 
  * MoM And Citywise 
  * Matches Hosted in Each City
