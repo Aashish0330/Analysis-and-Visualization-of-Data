@@ -1,3 +1,2 @@
-# Data-Visualization
-Analysis and Visualization of Data<br/>
+# Analysis and Visualization of Data
 The Following Analysis and Visualization of Different Datasets are based on a Course.
